@@ -1,0 +1,1 @@
+# pythonGeminiProjeto.ipynb
